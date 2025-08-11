@@ -17,7 +17,7 @@
 - 👨‍💻 All my work is here: [My Portfolio](https://myportfolioaman777.netlify.app/)
 - 💬 Ask me about **JavaScript, React, Node.js, Express, MongoDB, SQL, Java**
 - 📫 Reach me at: **amankuntal9599@gmail.com**
-- 📄 [My Resume](https://drive.google.com/file/d/1CTtAWvico0IDGmj5RG2r6hrr05S1OpDW/view?usp=drive_link)
+- 📄 [My Resume](https://drive.google.com/file/d/1Jayu1D7uENngSib7JyiBrf4VyWotOPC1/view?usp=sharing)
 
 ---
 
